@@ -11,11 +11,25 @@
 	<atom:link href="https://s2andynguyen.github.io/doan_cuoiky/san-pham/fathers-day-gift-storm-2/feed/" rel="self" type="application/rss+xml" />
 	<link>https://s2andynguyen.github.io/doan_cuoiky/san-pham/fathers-day-gift-storm-2/</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 Jun 2023 09:43:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Jun 2023 13:17:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
-</channel>
+	<item>
+		<title>
+		Bởi: admin		</title>
+		<link>https://s2andynguyen.github.io/doan_cuoiky/san-pham/fathers-day-gift-storm-2/#comment-3</link>
+
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 25 Jun 2023 13:17:18 +0000</pubDate>
+		<guid isPermaLink="false">https://s2andynguyen.github.io/doan_cuoiky/?post_type=product#038;p=141#comment-3</guid>
+
+					<description><![CDATA[okk]]></description>
+			<content:encoded><![CDATA[<p>okk</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

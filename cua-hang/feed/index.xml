@@ -12,13 +12,21 @@
 	<atom:link href="https://s2andynguyen.github.io/doan_cuoiky/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://s2andynguyen.github.io/doan_cuoiky</link>
 	<description></description>
-	<lastBuildDate>Mon, 12 Jun 2023 11:11:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Jun 2023 13:17:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10009-100x100.jpg</url>
+	<title>Cửa hàng &#8211; trang Đồ Án</title>
+	<link>https://s2andynguyen.github.io/doan_cuoiky</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Men&#8217;s Flower Blue 2</title>
 		<link>https://s2andynguyen.github.io/doan_cuoiky/san-pham/mens-flower-blue-2/</link>
@@ -54,7 +62,7 @@
 		<item>
 		<title>Father’s Day Gift Storm 2</title>
 		<link>https://s2andynguyen.github.io/doan_cuoiky/san-pham/fathers-day-gift-storm-2/</link>
-					<comments>https://s2andynguyen.github.io/doan_cuoiky/san-pham/fathers-day-gift-storm-2/#respond</comments>
+					<comments>https://s2andynguyen.github.io/doan_cuoiky/san-pham/fathers-day-gift-storm-2/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 12 Jun 2023 09:42:29 +0000</pubDate>
@@ -63,7 +71,7 @@
 					<description><![CDATA[Detailed zig-zags with clashing red and blue stripes make the socks even more cool and jazzy. With hints of pink and blue triangles makes them look mesmerizing.]]></description>
 		
 					<wfw:commentRss>https://s2andynguyen.github.io/doan_cuoiky/san-pham/fathers-day-gift-storm-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
