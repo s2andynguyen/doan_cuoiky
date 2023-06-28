@@ -9,8 +9,14 @@
 	width:56px;
 	height:4px;
 }
+.depicter-9-element-50 .depicter-bullet-item:hover {
+	background-color:#000000;
+}
 .depicter-9-element-50 .depicter-bullet-item.depicter-bullet-active{
 	background-color:#FFFFFF;
+}
+.depicter-9-element-50 .depicter-bullet-item.depicter-bullet-active:hover {
+	background-color:#000000;
 }
 .depicter-revert .depicter-9-element-51{
 	background-color:transparent;
