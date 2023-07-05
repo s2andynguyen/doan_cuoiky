@@ -125,16 +125,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://s2andynguyen.github.io/doan_cuoiky/blog-post/</loc>
-		<lastmod>2023-07-05T04:37:45+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://s2andynguyen.github.io/doan_cuoiky/contact-us/</loc>
-		<lastmod>2023-07-03T09:00:08+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/about-us/</loc>
-		<lastmod>2023-06-28T07:51:20+00:00</lastmod>
+		<lastmod>2023-07-05T10:03:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10002.png</image:loc>
 		</image:image>
@@ -150,6 +142,14 @@
 		<image:image>
 			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_img-323332.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://s2andynguyen.github.io/doan_cuoiky/contact-us/</loc>
+		<lastmod>2023-07-05T10:01:46+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://s2andynguyen.github.io/doan_cuoiky/blog-post/</loc>
+		<lastmod>2023-07-05T10:00:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/new_home/</loc>
