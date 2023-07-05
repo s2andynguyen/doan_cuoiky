@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/</loc>
-		<lastmod>2023-06-28T10:54:08+00:00</lastmod>
+		<lastmod>2023-07-05T10:50:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10002.png</image:loc>
 		</image:image>
@@ -125,6 +125,10 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://s2andynguyen.github.io/doan_cuoiky/contact-us/</loc>
+		<lastmod>2023-07-05T10:58:22+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/about-us/</loc>
 		<lastmod>2023-07-05T10:03:43+00:00</lastmod>
 		<image:image>
@@ -142,10 +146,6 @@
 		<image:image>
 			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_img-323332.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://s2andynguyen.github.io/doan_cuoiky/contact-us/</loc>
-		<lastmod>2023-07-05T10:01:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/blog-post/</loc>
