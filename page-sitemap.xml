@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://s2andynguyen.github.io/doan_cuoiky/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://s2andynguyen.github.io/doan_cuoiky/blog/</loc>
-		<lastmod>2023-06-19T02:57:55+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/</loc>
-		<lastmod>2023-06-26T16:41:25+00:00</lastmod>
+		<lastmod>2023-06-28T10:54:08+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10002.png</image:loc>
 		</image:image>
@@ -54,9 +50,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/product-033323222.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/product-03_1333.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/product-03_1333.jpg</image:loc>
@@ -132,6 +125,33 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://s2andynguyen.github.io/doan_cuoiky/blog-post/</loc>
+		<lastmod>2023-07-05T04:37:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://s2andynguyen.github.io/doan_cuoiky/contact-us/</loc>
+		<lastmod>2023-07-03T09:00:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://s2andynguyen.github.io/doan_cuoiky/about-us/</loc>
+		<lastmod>2023-06-28T07:51:20+00:00</lastmod>
+		<image:image>
+			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10002.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_deco-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_img-1-600x390-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_img-2222.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_img-323332.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/new_home/</loc>
 		<lastmod>2023-06-25T14:32:01+00:00</lastmod>
 		<image:image>
@@ -204,29 +224,6 @@
 	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/wishlist/</loc>
 		<lastmod>2023-06-25T13:02:02+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://s2andynguyen.github.io/doan_cuoiky/contact-us/</loc>
-		<lastmod>2023-06-24T16:06:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://s2andynguyen.github.io/doan_cuoiky/about-us/</loc>
-		<lastmod>2023-06-24T15:07:24+00:00</lastmod>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10002.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_deco-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_img-1-600x390-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_img-2222.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_img-323332.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/cua-hang/</loc>
