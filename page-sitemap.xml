@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/</loc>
-		<lastmod>2023-07-05T10:50:18+00:00</lastmod>
+		<lastmod>2023-07-07T16:05:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10002.png</image:loc>
 		</image:image>
@@ -125,8 +125,16 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://s2andynguyen.github.io/doan_cuoiky/test-page/</loc>
+		<lastmod>2023-07-08T10:47:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://s2andynguyen.github.io/doan_cuoiky/blog-post/</loc>
+		<lastmod>2023-07-08T10:14:34+00:00</lastmod>
+	</url>
+	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/contact-us/</loc>
-		<lastmod>2023-07-05T10:58:22+00:00</lastmod>
+		<lastmod>2023-07-08T06:01:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://s2andynguyen.github.io/doan_cuoiky/about-us/</loc>
@@ -145,80 +153,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/about_img-323332.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://s2andynguyen.github.io/doan_cuoiky/blog-post/</loc>
-		<lastmod>2023-07-05T10:00:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://s2andynguyen.github.io/doan_cuoiky/new_home/</loc>
-		<lastmod>2023-06-25T14:32:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10002.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10001.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/home1_img-111.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/home1_text.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10003.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10007.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10004.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10006.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10010.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10011.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10012.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10014-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10015.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10016.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10017.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10019.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10018.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10023.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10022.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10021.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://s2andynguyen.github.io/doan_cuoiky/wp-content/uploads/sites/2/2023/06/10020.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>

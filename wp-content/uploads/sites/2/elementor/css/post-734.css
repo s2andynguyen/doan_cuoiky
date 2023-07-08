@@ -18,6 +18,20 @@
 
 .elementor-734 .elementor-element.elementor-element-eb91ea0 .star-rating span:before {
     color: #f9ca63 !important;
+}
+.elementor-734 .elementor-element.elementor-element-eb91ea0 #woocommerce_layered_nav-3 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee
+}
+.elementor-734 .elementor-element.elementor-element-eb91ea0 #woocommerce_layered_nav-3  a{
+    font-size: 16px;
+}
+.elementor-734 .elementor-element.elementor-element-eb91ea0 #woocommerce_layered_nav-4 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee
+}
+.elementor-734 .elementor-element.elementor-element-eb91ea0 #woocommerce_layered_nav-4  a{
+    font-size: 16px;
 }/* End custom CSS */
 /* Start custom CSS for wc-archive-products, class: .elementor-element-6b92431 */.elementor-734 .elementor-element.elementor-element-6b92431 .star-rating span:before {
     color: #f9ca63 !important;
